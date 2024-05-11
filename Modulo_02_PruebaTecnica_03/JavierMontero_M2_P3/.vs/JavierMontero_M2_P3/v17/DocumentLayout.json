@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Pruebas_Tecnicas\\Modulo_02_PruebaTecnica_03\\JavierMontero_M2_P3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B807859-171F-428D-A008-D4F737D25AE7}|Name_Array_String\\Name_Array_String.csproj|d:\\01 javier one\\onedrive\\00 proyectos\\programacion\\pro game developer - master devs\\pruebas_tecnicas\\modulo_02_pruebatecnica_03\\javiermontero_m2_p3\\name_array_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B807859-171F-428D-A008-D4F737D25AE7}|Name_Array_String\\Name_Array_String.csproj|solutionrelative:name_array_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Pruebas_Tecnicas\\Modulo_02_PruebaTecnica_03\\JavierMontero_M2_P3\\Name_Array_String\\Program.cs",
+              "RelativeDocumentMoniker": "Name_Array_String\\Program.cs",
+              "ToolTip": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Pruebas_Tecnicas\\Modulo_02_PruebaTecnica_03\\JavierMontero_M2_P3\\Name_Array_String\\Program.cs",
+              "RelativeToolTip": "Name_Array_String\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T22:22:51.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

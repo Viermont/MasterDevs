@@ -1,0 +1,7 @@
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\bin\Debug\Suma_2_Numeros.exe.config
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\bin\Debug\Suma_2_Numeros.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\bin\Debug\Suma_2_Numeros.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.AssemblyReference.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\obj\Debug\SumTwoNumbers.csproj.CoreCompileInputs.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\obj\Debug\Suma_2_Numeros.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\SumTwoNumbers\obj\Debug\Suma_2_Numeros.pdb

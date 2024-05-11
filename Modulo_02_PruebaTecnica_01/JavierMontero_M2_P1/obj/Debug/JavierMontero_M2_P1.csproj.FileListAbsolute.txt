@@ -1,0 +1,7 @@
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\bin\Debug\JavierMontero_M2_P1.exe.config
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\bin\Debug\JavierMontero_M2_P1.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\bin\Debug\JavierMontero_M2_P1.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\obj\Debug\JavierMontero_M2_P1.csproj.AssemblyReference.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\obj\Debug\JavierMontero_M2_P1.csproj.CoreCompileInputs.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\obj\Debug\JavierMontero_M2_P1.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\JavierMontero_M2_P1\obj\Debug\JavierMontero_M2_P1.pdb

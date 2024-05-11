@@ -1,0 +1,7 @@
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\bin\Debug\Divisibles_Entre_3.exe.config
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\bin\Debug\Divisibles_Entre_3.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\bin\Debug\Divisibles_Entre_3.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\obj\Debug\Divisibles_Entre_3.csproj.AssemblyReference.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\obj\Debug\Divisibles_Entre_3.csproj.CoreCompileInputs.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\obj\Debug\Divisibles_Entre_3.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\Divisibles_Entre_3\obj\Debug\Divisibles_Entre_3.pdb

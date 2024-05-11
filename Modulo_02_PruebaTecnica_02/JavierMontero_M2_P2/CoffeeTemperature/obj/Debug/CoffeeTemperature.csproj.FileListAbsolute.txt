@@ -1,0 +1,14 @@
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\bin\Debug\Temperatura_Cafe.exe.config
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\bin\Debug\Temperatura_Cafe.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\bin\Debug\Temperatura_Cafe.pdb
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\CoffeeTemperature.csproj.AssemblyReference.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\CoffeeTemperature.csproj.CoreCompileInputs.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\Temperatura_Cafe.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\Temperatura_Cafe.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\bin\Debug\Temperatura_Cafe.exe.config
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\bin\Debug\Temperatura_Cafe.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\bin\Debug\Temperatura_Cafe.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\CoffeeTemperature.csproj.AssemblyReference.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\CoffeeTemperature.csproj.CoreCompileInputs.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\Temperatura_Cafe.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\CoffeeTemperature\obj\Debug\Temperatura_Cafe.pdb

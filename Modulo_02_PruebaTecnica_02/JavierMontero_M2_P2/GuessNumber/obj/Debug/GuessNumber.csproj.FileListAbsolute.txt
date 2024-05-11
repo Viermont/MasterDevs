@@ -1,0 +1,14 @@
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\bin\Debug\Adivina_Numero.exe.config
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\bin\Debug\Adivina_Numero.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\bin\Debug\Adivina_Numero.pdb
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\Adivina_Numero.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\Adivina_Numero.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\bin\Debug\Adivina_Numero.exe.config
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\bin\Debug\Adivina_Numero.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\bin\Debug\Adivina_Numero.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\Adivina_Numero.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_02\JavierMontero_M2_P2\GuessNumber\obj\Debug\Adivina_Numero.pdb

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14BFB45-550B-48F4-B6B3-0D43BA06A782}|JavierMontero_M2_P1.csproj|d:\\01 javier one\\onedrive\\00 proyectos\\programacion\\pro game developer - master devs\\modulo_02_pruebatecnica_01_c#_creandoproyectos, clases y estructuras\\javiermontero_m2_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14BFB45-550B-48F4-B6B3-0D43BA06A782}|JavierMontero_M2_P1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14BFB45-550B-48F4-B6B3-0D43BA06A782}|JavierMontero_M2_P1.csproj|d:\\01 javier one\\onedrive\\00 proyectos\\programacion\\pro game developer - master devs\\modulo_02_pruebatecnica_01_c#_creandoproyectos, clases y estructuras\\javiermontero_m2_p1\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14BFB45-550B-48F4-B6B3-0D43BA06A782}|JavierMontero_M2_P1.csproj|solutionrelative:events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14BFB45-550B-48F4-B6B3-0D43BA06A782}|JavierMontero_M2_P1.csproj|d:\\01 javier one\\onedrive\\00 proyectos\\programacion\\pro game developer - master devs\\modulo_02_pruebatecnica_01_c#_creandoproyectos, clases y estructuras\\javiermontero_m2_p1\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14BFB45-550B-48F4-B6B3-0D43BA06A782}|JavierMontero_M2_P1.csproj|solutionrelative:exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 548,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:47:35.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exams.cs",
+              "DocumentMoniker": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\Exams.cs",
+              "RelativeDocumentMoniker": "Exams.cs",
+              "ToolTip": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\Exams.cs",
+              "RelativeToolTip": "Exams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:21:12.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Events.cs",
+              "DocumentMoniker": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\Events.cs",
+              "RelativeDocumentMoniker": "Events.cs",
+              "ToolTip": "D:\\01 Javier One\\OneDrive\\00 Proyectos\\Programacion\\Pro Game Developer - Master Devs\\Modulo_02_PruebaTecnica_01_C#_CreandoProyectos, clases y estructuras\\JavierMontero_M2_P1\\Events.cs",
+              "RelativeToolTip": "Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T11:21:05.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
