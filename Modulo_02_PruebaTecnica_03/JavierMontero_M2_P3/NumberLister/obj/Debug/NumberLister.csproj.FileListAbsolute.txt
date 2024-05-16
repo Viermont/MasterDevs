@@ -1,0 +1,14 @@
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\bin\Debug\NumberLister.exe.config
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\bin\Debug\NumberLister.exe
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\bin\Debug\NumberLister.pdb
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.csproj.AssemblyReference.cache
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.csproj.CoreCompileInputs.cache
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.exe
+D:\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.pdb
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\bin\Debug\NumberLister.exe.config
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\bin\Debug\NumberLister.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\bin\Debug\NumberLister.pdb
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.csproj.AssemblyReference.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.csproj.CoreCompileInputs.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberLister\obj\Debug\NumberLister.pdb

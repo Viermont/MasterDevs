@@ -1,0 +1,7 @@
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\bin\Debug\Nombre_Array_String.exe.config
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\bin\Debug\Nombre_Array_String.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\bin\Debug\Nombre_Array_String.pdb
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\obj\Debug\Reverse_Name.csproj.AssemblyReference.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\obj\Debug\Reverse_Name.csproj.CoreCompileInputs.cache
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\obj\Debug\Nombre_Array_String.exe
+D:\01 Javier One\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\Reverse_Name\obj\Debug\Nombre_Array_String.pdb

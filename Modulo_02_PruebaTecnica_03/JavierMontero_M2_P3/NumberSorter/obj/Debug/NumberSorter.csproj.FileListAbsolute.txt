@@ -1,0 +1,7 @@
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\bin\Debug\Number_Sorter.exe.config
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\bin\Debug\Number_Sorter.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\bin\Debug\Number_Sorter.pdb
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\obj\Debug\NumberSorter.csproj.AssemblyReference.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\obj\Debug\NumberSorter.csproj.CoreCompileInputs.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\obj\Debug\Number_Sorter.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Pro Game Developer - Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_03\JavierMontero_M2_P3\NumberSorter\obj\Debug\Number_Sorter.pdb
