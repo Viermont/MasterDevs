@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vierm\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_02_Practica_01\\TextSummarizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA859A-B0E7-4864-9BCD-29863DA09590}|TextSummarizer\\TextSummarizer.csproj|c:\\users\\vierm\\onedrive\\00 proyectos\\programacion\\master devs\\pruebas_tecnicas\\modulo_02_practica_01\\textsummarizer\\textsummarizer\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEA859A-B0E7-4864-9BCD-29863DA09590}|TextSummarizer\\TextSummarizer.csproj|solutionrelative:textsummarizer\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEA859A-B0E7-4864-9BCD-29863DA09590}|TextSummarizer\\TextSummarizer.csproj|C:\\Users\\vierm\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_02_Practica_01\\TextSummarizer\\textsummarizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEA859A-B0E7-4864-9BCD-29863DA09590}|TextSummarizer\\TextSummarizer.csproj|solutionrelative:textsummarizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\vierm\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_02_Practica_01\\TextSummarizer\\TextSummarizer\\Utility.cs",
+              "RelativeDocumentMoniker": "TextSummarizer\\Utility.cs",
+              "ToolTip": "C:\\Users\\vierm\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_02_Practica_01\\TextSummarizer\\TextSummarizer\\Utility.cs",
+              "RelativeToolTip": "TextSummarizer\\Utility.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwC0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:32:12.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vierm\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_02_Practica_01\\TextSummarizer\\TextSummarizer\\Program.cs",
+              "RelativeDocumentMoniker": "TextSummarizer\\Program.cs",
+              "ToolTip": "C:\\Users\\vierm\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_02_Practica_01\\TextSummarizer\\TextSummarizer\\Program.cs",
+              "RelativeToolTip": "TextSummarizer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:32:10.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

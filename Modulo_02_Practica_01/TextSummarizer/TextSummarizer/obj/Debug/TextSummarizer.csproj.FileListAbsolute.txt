@@ -1,0 +1,21 @@
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.exe.config
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.pdb
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.csproj.AssemblyReference.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.csproj.CoreCompileInputs.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.pdb
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.exe.config
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.exe
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.pdb
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.csproj.AssemblyReference.cache
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.csproj.CoreCompileInputs.cache
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.exe
+C:\Users\vierm\Desktop\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.pdb
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.exe.config
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\bin\Debug\TextSummarizer.pdb
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.csproj.AssemblyReference.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.csproj.CoreCompileInputs.cache
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.exe
+C:\Users\vierm\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_Practica_01\TextSummarizer\TextSummarizer\obj\Debug\TextSummarizer.pdb
