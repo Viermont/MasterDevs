@@ -1,0 +1,7 @@
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\bin\Debug\P4.exe.config
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\bin\Debug\P4.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\bin\Debug\P4.pdb
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\obj\Debug\P4.csproj.AssemblyReference.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\obj\Debug\P4.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_02_PruebaTecnica_04\P4\P4\obj\Debug\P4.pdb
