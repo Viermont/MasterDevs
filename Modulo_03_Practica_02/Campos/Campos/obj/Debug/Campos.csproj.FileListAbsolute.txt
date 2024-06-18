@@ -1,0 +1,7 @@
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\bin\Debug\Campos.exe.config
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\bin\Debug\Campos.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\bin\Debug\Campos.pdb
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\obj\Debug\Campos.csproj.AssemblyReference.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\obj\Debug\Campos.csproj.CoreCompileInputs.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\obj\Debug\Campos.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_02\Campos\Campos\obj\Debug\Campos.pdb

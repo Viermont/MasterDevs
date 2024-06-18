@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_03_Practica_02\\Campos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D51F1A-5239-453C-9852-66F25F32D3F1}|Campos\\Campos.csproj|d:\\onedrive\\00 proyectos\\programacion\\master devs\\pruebas_tecnicas\\modulo_03_practica_02\\campos\\campos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D51F1A-5239-453C-9852-66F25F32D3F1}|Campos\\Campos.csproj|solutionrelative:campos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_03_Practica_02\\Campos\\Campos\\Program.cs",
+              "RelativeDocumentMoniker": "Campos\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\00 Proyectos\\Programacion\\Master Devs\\Pruebas_Tecnicas\\Modulo_03_Practica_02\\Campos\\Campos\\Program.cs",
+              "RelativeToolTip": "Campos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:55:43.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

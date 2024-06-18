@@ -1,0 +1,7 @@
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\bin\Debug\Clases.exe.config
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\bin\Debug\Clases.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\bin\Debug\Clases.pdb
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\obj\Debug\Clases.exe
+D:\OneDrive\00 Proyectos\Programacion\Master Devs\Pruebas_Tecnicas\Modulo_03_Practica_01\Clases\Clases\obj\Debug\Clases.pdb
